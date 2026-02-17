@@ -1,7 +1,7 @@
 Run โปรแกรม python app2.py
 <img width="800" height="319" alt="image" src="https://github.com/user-attachments/assets/809e0f46-217c-4d40-9925-f5f65cf7f81f" />
 Run Server โดยใช้ ngrok ผ่าน port 8080
-<img width="787" height="291" alt="image" src="https://github.com/user-attachments/assets/8be549c6-5c1f-44f2-a427-eef66698b400" 
+<img width="787" height="291" alt="image" src="https://github.com/user-attachments/assets/8be549c6-5c1f-44f2-a427-eef66698b400" />
 สมัคร line dev สร้างบอทมาตัวนึง
 <img width="1483" height="700" alt="image" src="https://github.com/user-attachments/assets/d89df78d-8ffa-427c-8c4c-d1bba1905ce5" />
 ใส่ https://terresa-supermagnificent-robbyn.ngrok-free.dev/callback ใน webhook
